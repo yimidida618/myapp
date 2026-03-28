@@ -5,3 +5,7 @@
 - Node.js v16+
 - npm
 ### 安装依赖
+```bash
+npm install
+```
+### 开发模式（可选）
